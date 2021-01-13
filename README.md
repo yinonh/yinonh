@@ -2,7 +2,7 @@
 My name is Yinon Hadad, I’m softwere engeneering student at SCE college of engineering.
 
 ---
-###Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
