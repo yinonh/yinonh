@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-My name is Yinon Hadad, I’m softwere engeneering student at SCE college of engineering.
+My name is Yinon Hadad, I’m software engeneering student at SCE college of engineering.
 
 ---
 ### Languages and Tools:
