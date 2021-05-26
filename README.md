@@ -14,7 +14,7 @@ My name is Yinon Hadad, I’m software engeneering student at SCE college of eng
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yinonh)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/yinonh?username=yinonh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
