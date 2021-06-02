@@ -10,8 +10,12 @@ My name is Yinon Hadad, I’m software engeneering student at SCE college of eng
 <img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
+<!--
 <img align="up" alt="Java" width="65px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
+-->
+
+<br />
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
