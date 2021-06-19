@@ -5,10 +5,10 @@ My name is Yinon Hadad, I’m software engeneering student at SCE college of eng
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="C" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="C" width="32px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Java" width="32px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="Flutter" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 
 
