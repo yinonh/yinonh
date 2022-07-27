@@ -11,7 +11,7 @@ My name is Yinon Hadad, I’m software engineering student at SCE college of eng
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Java" width="32px" src="https://www.pngplay.com/wp-content/uploads/9/Java-Download-Free-PNG.png" />
 <img align="left" alt="Flutter" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Django" width="28px" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" />
+<img align="left" alt="Django" width="28px" src="https://kaplanopensourceconsulting.files.wordpress.com/2019/10/django-logo-negative.png" />
 <img align="left" alt="Kivy" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" />
 
 
