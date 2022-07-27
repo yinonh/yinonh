@@ -6,12 +6,12 @@ My name is Yinon Hadad, I’m software engineering student at SCE college of eng
 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C#" width="50px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="C" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Java" width="32px" src="https://www.pngplay.com/wp-content/uploads/9/Java-Download-Free-PNG.png" />
 <img align="left" alt="Flutter" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Django" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />
+<img align="left" alt="Django" width="35px" src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" />
 <img align="left" alt="Kivy" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" />
 
 
