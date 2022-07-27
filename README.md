@@ -22,13 +22,12 @@ My name is Yinon Hadad, I’m software engineering student at SCE college of eng
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yinonh&count_private=true&show_icons=true&include_all_commits=true)
-
-
-
 
 
 <!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yinonh&count_private=true&show_icons=true&include_all_commits=true)
+
+
 **yinonh/yinonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
