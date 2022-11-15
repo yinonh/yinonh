@@ -25,10 +25,10 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yinonh&show_icons=true&theme=tokyonight"
   />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact&theme=tokyonight" />
 </a>
