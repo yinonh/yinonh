@@ -1,45 +1,34 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-My name is Yinon Hadad, I’m software engineering student at SCE college of engineering.
 
----
+
+#  <p align ="center" height="40px" width="40px">  Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"> </p>
+##     <p align = "center"> My name is Yinon Hadad, I’m software engineering student at SCE college of engineering.
+ </p>
+
+
+
+
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="C" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Java" width="32px" src="https://www.pngplay.com/wp-content/uploads/9/Java-Download-Free-PNG.png" />
-<img align="left" alt="Flutter" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Django" width="50px" src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" />
-<img align="left" alt="Kivy" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" />
+<p align="left">
+<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a><img alt="C++" width="31px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /></a>
+<a><img alt="C#" width="31px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /></a>
+<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="36" height="36" alt="GitHub" /></a>
+<a><img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="36" height="36" alt="Flutter" /></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" width="36" height="36" alt="Flutter" /></a><br> </p>
+
+<a href="http://www.github.com/yinonh"><img src="https://activity-graph.herokuapp.com/graph?username=yinonh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
-<!--
-<img align="up" alt="Java" width="65px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
--->
 
-<br />
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yinonh&count_private=true&show_icons=true&include_all_commits=true)
-
-
-**yinonh/yinonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yinonh&show_icons=true&theme=tokyonight"
+  />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact&theme=tokyonight" />
+</a>
