@@ -23,7 +23,7 @@
 <a href="http://www.github.com/yinonh"><img src="https://activity-graph.herokuapp.com/graph?username=yinonh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-
+<!---
 
 <a  href="http://www.github.com/yinonh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yinonh&show_icons=true&theme=tokyonight"
@@ -33,7 +33,7 @@
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact&theme=tokyonight" />
 </a>
 
-<!---
+-->
 
 ## Skills & Technologies
 | | |
@@ -43,7 +43,7 @@
 | **Enviroments** | ![Pycharm](https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=flat-square)&nbsp;![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-black?logo=jupyter&) &nbsp;![Collab](https://img.shields.io/badge/-Collab-black?logo=googlecolab&style=flat-square)  &nbsp; ![Visual](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)&nbsp; ![VS code](https://img.shields.io/badge/VS_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)  &nbsp; ![Eqlipse](https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipse&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/GitHub-100000?=&logo=github&logoColor=white)&nbsp; |
 | **Tools**	|![](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)&nbsp; ![](https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white)  &nbsp; ![](https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white)  &nbsp; ![](https://img.shields.io/badge/Heroku-430098?&logo=heroku&logoColor=white)  &nbsp; ![](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=flat-square)|
 
--->
+
 
 
 
