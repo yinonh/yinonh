@@ -1,14 +1,9 @@
-
 <p align="center">  <img src="https://i.ibb.co/NV9MSSR/New-Project-1.png" width="100%" style="position: relative;"> </p>   
-<a href="https://www.linkedin.com/in/yinon-hadad/"> 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" height="40px"> </a> 
 
-# <p align="center" style="line-height: 40px;">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></p>
+ <h1 align="center" style="line-height: 40px;"><a href="https://www.linkedin.com/in/yinon-hadad/"> 
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" height="40px"> </a> Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h1>
+
 ## <p align="center">My name is Yinon Hadad, I'm a junior software engineer.</p>
-
-
-
-
 
 
 ## Skills & Technologies
