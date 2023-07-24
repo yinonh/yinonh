@@ -1,8 +1,32 @@
+<style>
+    .parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image2 {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+</style>
+
+<div class="parent">
+  <img class="image1" src="https://i.ibb.co/C6PdtcQ/New-Project-3-1.png" width= 100% />
+  <a href="https://www.linkedin.com/in/yinon-hadad/">
+    <img class="image2" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" height="40px"  />
+    </a>
+</div>
+
+# <p align="center" style="line-height: 40px;">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></p>
+## <p align="center">My name is Yinon Hadad, I'm a junior software engineer.</p>
 
 
-#  <p align ="center" height="40px" width="40px">  Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"> </p>
-##     <p align = "center"> My name is Yinon Hadad, I’m software engineering student at SCE college of engineering.
- </p>
 
 
 
@@ -30,13 +54,3 @@
 <a  href="http://www.github.com/yinonh">
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yinonh&layout=compact&theme=tokyonight" />
 </a>
-
-
-
-
-
-
-
-
-
-
